@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashmit Saxena
+- 👋 Hi, I’m Ashmit Saxena and im currently in my 2nd yr of Btech from Vit Bhopal in Cse (specialization in Gaming Technology)
 - 👀 I’m interested in Dsa and Game development
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on open source projects
