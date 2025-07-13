@@ -1,3 +1,5 @@
+![f9576fca9fc8ef79976a1d6327bbe9ae](https://github.com/user-attachments/assets/af8d2e37-06ad-4ec5-b55b-8ddd276dcd02)
+
 - 👋 Hi, I’m Ashmit Saxena and im currently in my 2nd yr of Btech from Vit Bhopal in Cse (specialization in Gaming Technology)
 - 👀 I’m interested in Dsa and Game development
 - 🌱 I’m currently learning Game Development
