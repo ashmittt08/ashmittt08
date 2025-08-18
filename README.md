@@ -31,8 +31,9 @@
 <div align="center">
   
   <!-- GitHub Stats -->
- | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashmittt08&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmittt08&layout=compact&theme=merko&hide_border=true" /> |
-|---|---|
+  
+![ashmittt08's Stats](https://github-readme-stats.vercel.app/api?username=ashmittt08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![ashmittt08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashmittt08&theme=vue-dark&hide_border=true)![ashmittt08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmittt08&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+
 
   | ------------- | ------------- |
 
