@@ -171,12 +171,7 @@ Educational Unity AR application enabling interactive learning through augmented
 
 ---
 
-# Contribution Snake
 
-```text
-Generate using:
-Platane/snk GitHub Action
-```
 
 ---
 
@@ -206,18 +201,23 @@ open_to:
 
 ---
 
-# Connect
-
-- 📧 saxenaashmit85@gmail.com
-- 💼 https://www.linkedin.com/in/ashmit-saxena08
-- 💻 https://github.com/ashmittt08
-
----
+## 🤝 Connect With Me
 
 <div align="center">
 
+<a href="mailto:saxenaashmit85@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/ashmit-saxena08">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6C63FF"/>
+<a href="https://github.com/ashmittt08">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
