@@ -20,6 +20,8 @@ Final-year B.Tech CSE (Gaming Technology) student at **VIT Bhopal University**.
 
 I work at the intersection of **data analytics** and **applied AI**: cleaning and modelling data, building dashboards that answer real questions, and shipping LLM-powered products. My game development background (Unity, AR) shapes how I design interactive, user-centred experiences.
 
+I also build full-stack web applications with React frontends and Node.js / Firebase backends.
+
 **Currently seeking:** Data Analyst · Research Analyst · AI/ML roles
 
 ---
@@ -36,12 +38,18 @@ I work at the intersection of **data analytics** and **applied AI**: cleaning an
 | **MockMate** | AI interview-prep platform with personalised mock interviews and feedback | React · Firebase · LLM APIs |
 | **Smooth AI** | Messaging assistant that generates context-aware replies | LLM APIs · JavaScript |
 
+### ⚙️ Full Stack Development
+
+| Project | What it does | Stack |
+|---|---|---|
+| **MoodQuest** | End-to-end platform tying together emotion-detection models, the MindBot chatbot and Unity games into one user experience | Python · GPT-4o API · Unity |
+| **MentorBoard** | Mentorship dashboard frontend with a typed, component-driven UI | React · TypeScript |
+
 ### 🎮 Game Development & XR
 
 | Project | What it does | Stack |
 |---|---|---|
 | **EcoVerse AR** | Educational AR experience teaching sustainability through interactive 3D scenes | Unity · C# · Blender |
-| **MoodQuest mini-games** | Therapeutic mini-games that adapt to the player's detected emotional state | Unity · C# |
 
 ---
 
@@ -52,7 +60,7 @@ I work at the intersection of **data analytics** and **applied AI**: cleaning an
 | **Data & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
 | **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![DeepFace](https://img.shields.io/badge/DeepFace-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square) |
 | **Game Dev & XR** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) |
-| **Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 ---
